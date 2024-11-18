@@ -57,7 +57,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2023 Arnold
+footer-text: Copyright (c) 2023 offz
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -67,7 +67,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 6eb551953fbc3116b8ff
   clientSecret: e0d5c604194814a2325c2092eba0728bf589d0db
-  repo: of.github.io
+  repo: blog
   owner: offzen
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
