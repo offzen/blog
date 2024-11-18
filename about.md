@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-hola
+Aloha
 
 ### 关于本博客
 
