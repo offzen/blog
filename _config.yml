@@ -29,8 +29,7 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 打赏
-    url: /likes
+
 
 # Pagination
 paginate: 8
