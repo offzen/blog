@@ -65,8 +65,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 6eb551953fbc3116b8ff
-  clientSecret: e0d5c604194814a2325c2092eba0728bf589d0db
+  clientID: 
+  clientSecret: 
   repo: blog
   owner: offzen
 
